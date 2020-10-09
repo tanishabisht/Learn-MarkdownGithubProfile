@@ -1,2 +1,57 @@
-# demo2
-A quick reference to the new github profile feature
+# Demo2: GitHub Profile 
+
+This is all new feature introduced by GitHub that allows users to create profile level README which can also be used as user’s portfolio.
+
+
+
+## References
+
+The following are some of the links to github repositories as a detailed reference to the cool stuffs you can add in you readme.md file:
+
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) Get dynamically generated GitHub profile views on your READMEs
+  - [Profile Views Counter](https://github.com/tanishabisht/demo2/#GitHub+Profile+Views+Counter)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) Get dynamically generated GitHub stats on your READMEs
+  - [GitHub status card]()
+  - [GitHub Extra pins]()
+  - [Top language card]()
+- [Badges from shields.io](https://shields.io/) To generate customisable badges
+  - [Badges]()
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) Add dynamically generated GitHub Trophy on your readme
+  - [Trophies]()
+
+
+## GitHub Profile Views Counter
+![](https://komarev.com/ghpvc/?username=tanishabisht&style=flat&color=42b883&label=WELCOME+visitor+number:)
+
+
+## GitHub status card
+![Tanisha's github stats](https://github-readme-stats.vercel.app/api?username=tanishabisht&show_icons=true&theme=vue)
+
+
+## GitHub Extra pins
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=tanishabisht&repo=demo1&theme=vue)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue" />
+</a>
+
+
+
+## Top language card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabisht&layout=compact&theme=vue)
+
+
+## Badges
+
+[![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Tanisha_Bisht-green.svg)](https://medium.com/@tanisha.bisht2020)
+
+[![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Tanisha_Bisht-blue.svg?style=flat)](https://www.linkedin.com/in/tanisha-bisht-17542a192/)
+
+
+## Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=tanishabisht&theme=vue&row=2&column=3&margin-w=15&margin-h=15)
+
+
+## Some Random GIFs
+
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
