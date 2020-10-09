@@ -9,15 +9,15 @@ This is all new feature introduced by GitHub that allows users to create profile
 The following are some of the links to github repositories as a detailed reference to the cool stuffs you can add in you readme.md file:
 
 - [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) Get dynamically generated GitHub profile views on your READMEs
-  - [Profile Views Counter](https://github.com/tanishabisht/demo2/#GitHub+Profile+Views+Counter)
+  - [Profile Views Counter](https://github.com/tanishabisht/demo2/#GitHub-Profile-Views-Counter)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) Get dynamically generated GitHub stats on your READMEs
-  - [GitHub status card]()
-  - [GitHub Extra pins]()
-  - [Top language card]()
+  - [GitHub status card](https://github.com/tanishabisht/demo2/#GitHub-status-card)
+  - [GitHub Extra pins](https://github.com/tanishabisht/demo2/#GitHub-Extra-pins)
+  - [Top language card](https://github.com/tanishabisht/demo2/#Top-language-card)
 - [Badges from shields.io](https://shields.io/) To generate customisable badges
-  - [Badges]()
+  - [Badges](https://github.com/tanishabisht/demo2/#Badges)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) Add dynamically generated GitHub Trophy on your readme
-  - [Trophies]()
+  - [Trophies](https://github.com/tanishabisht/demo2/#Trophies)
 
 
 ## GitHub Profile Views Counter
