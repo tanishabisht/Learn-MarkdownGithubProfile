@@ -53,5 +53,17 @@ The following are some of the links to github repositories as a detailed referen
 
 
 ## Some Random GIFs
-
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+
+
+## Raw links vs Web Page links
+At times you will encounter URLs that look like this: 
+`https://raw.githubusercontent.com/tanishabisht/tanishabisht/main/readme/girl.jpg`
+
+### What does it represent?
+There are two ways of looking at github content, the "raw" way and the "Web page" way.
+- **Web Page way:** If you instead download the file using the github.com link, you will actually be downloading a web page with buttons and comments and which displays your wanted script in the middle
+- **Raw way:**  That web page has a button called Raw that sends you to the corresponding content on raw.githubusercontent.com
+
+Converting raw link to web page link <br/>
+`https://raw.githubusercontent.com/${repo}/${branch}/${path}` -- `https://github.com/${repo}/blob/${branch}/${path}`
