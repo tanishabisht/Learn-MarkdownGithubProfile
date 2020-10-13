@@ -18,6 +18,8 @@ The following are some of the links to github repositories as a detailed referen
   - [Badges](https://github.com/tanishabisht/demo2/#Badges)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) Add dynamically generated GitHub Trophy on your readme
   - [Trophies](https://github.com/tanishabisht/demo2/#Trophies)
+- [GitHub Jokes](https://github.com/ABSphreak/readme-jokes) Add programming jokes to your readme
+  - [Jokes](https://github.com/tanishabisht/demo2/#Jokes)
 
 
 ## GitHub Profile Views Counter
@@ -36,7 +38,6 @@ The following are some of the links to github repositories as a detailed referen
 </a>
 
 
-
 ## Top language card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabisht&layout=compact&theme=vue)
 
@@ -50,6 +51,10 @@ The following are some of the links to github repositories as a detailed referen
 
 ## Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=tanishabisht&theme=vue&row=2&column=3&margin-w=15&margin-h=15)
+
+
+## Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ## Some Random GIFs
