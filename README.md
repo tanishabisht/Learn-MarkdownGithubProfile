@@ -59,7 +59,7 @@ The following are some of the links to github repositories as a detailed referen
 
 ## Some Random GIFs
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-
+<img src='https://1.bp.blogspot.com/-HY5bNHAM3vo/USiXAzQR_II/AAAAAAAAK5M/DrkyKvDs8LM/s1600/bad-computer.gif' width='400"'>
 
 ## Raw links vs Web Page links
 At times you will encounter URLs that look like this: 
