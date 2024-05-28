@@ -11,23 +11,34 @@ This README is essentially a toolkit for anyone looking to spruce up their GitHu
 
 
 - **[GitHub Status Card](https://github.com/anuraghazra/github-readme-stats#github-stats-card):** Cards that display your GitHub statistics dynamically.
+  
   ![Tanisha's github stats](https://github-readme-stats.vercel.app/api?username=tanishabisht&show_icons=true&theme=vue)
 
+
 - **GitHub Extra Pins:** Allows you to pin additional repositories you want to highlight.
+
   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=tanishabisht&repo=demo1&theme=vue)
 
+
 - **Top language card:** Displays the most used languages in your repositories.
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabisht&layout=compact&theme=vue)
+
 
 - **[Badges](https://shields.io/):** Customizable badges for various purposes.
 
   [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Tanisha_Bisht-blue.svg?style=flat)](https://www.linkedin.com/in/tanisha-bisht-17542a192/)
 
+
 - **[GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy):** Trophies that highlight specific achievements on GitHub.
+
   ![trophy](https://github-profile-trophy.vercel.app/?username=tanishabisht&theme=vue&row=2&column=3&margin-w=15&margin-h=15)
 
+
 - **[GitHub Jokes](https://github.com/ABSphreak/readme-jokes):** A widget to display programming jokes.
+  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 - **GIFs**
 
